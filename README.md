@@ -13,3 +13,5 @@ npm install
 ```bash
 npm start
 ```
+
+Access API : http://localhost:3000/wallets
